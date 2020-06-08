@@ -1,0 +1,2 @@
+# Inside-the-genetics-and-bioinformatics
+The sequencing technology and genetic analysis, is used to increase life quality in various ways. For instance, genetic analysis can be used to prove the existence of an organism. It might sound strange at first, so check out this example. The most convenient way to understand if a person has Malaria (Plasmodium) in the blood is to make a PCR based genetic analysis, since some types of Plasmodium might not be noticed under microscope.
